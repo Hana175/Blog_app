@@ -34,3 +34,4 @@ This project uses Docker Compose to manage the development environment. Follow t
    ```bash
    git clone <repository-url>
    cd blog_app
+   docker-compose up
